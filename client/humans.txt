@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Jhonatan Oliveira and André Evaristo -- The real anonymous chat of internet -- <twitter>
+
+# THANKS
+
+    University of Regina, Federal University of Viçosa
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    meteor, node.js

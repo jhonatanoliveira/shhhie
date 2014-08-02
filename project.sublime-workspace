@@ -1,0 +1,440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			],
+			[
+				"flas",
+				"flashMessage"
+			],
+			[
+				"flashMessage",
+				"flashMessageType"
+			],
+			[
+				"open",
+				"openChatroom"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"h",
+				"href	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "client/index.html",
+			"settings":
+			{
+				"buffer_size": 18743,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/client.js",
+			"settings":
+			{
+				"buffer_size": 9862,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/js/main.js",
+			"settings":
+			{
+				"buffer_size": 1117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jhonatanoliveira/Google Drive/diversos/secrets data/dados_ninil.txt",
+			"settings":
+			{
+				"buffer_size": 130,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jhonatanoliveira/Dropbox/biblioteca/meteor/shhhie/client/humans.txt",
+		"/Users/jhonatanoliveira/Dropbox/biblioteca/meteor/shhhie/models.js",
+		"/Users/jhonatanoliveira/Dropbox/biblioteca/meteor/shhhie/project.sublime-project",
+		"/Users/jhonatanoliveira/Dropbox/biblioteca/meteor/shhhie/client/index.html",
+		"/Users/jhonatanoliveira/Google Drive/diversos/secrets data/dados_ninil.txt",
+		"/Users/jhonatanoliveira/Dropbox/www/shhhie/dependencies.json",
+		"/Users/jhonatanoliveira/Dropbox/www/shhhie/Procfile",
+		"/Users/jhonatanoliveira/Dropbox/www/shhhie/README",
+		"/Users/jhonatanoliveira/Dropbox/www/shhhie/server/server.js",
+		"/Users/jhonatanoliveira/Dropbox/biblioteca/meteor/shhhie/client/js/jqBootstrapValidation.js",
+		"/Applications/MAMP/htdocs/shhhie/app/View/Pages/home.ctp",
+		"/Users/jhonatanoliveira/Dropbox/biblioteca/meteor/shhhie/server/server.js",
+		"/Users/jhonatanoliveira/Dropbox/biblioteca/meteor/shhhie/client/css/bootstrap.css",
+		"/Users/jhonatanoliveira/Dropbox/biblioteca/meteor/shhhie/client/css/bootstrap-responsive.css",
+		"/Users/jhonatanoliveira/Dropbox/biblioteca/meteor/shhhie/client/404.html",
+		"/Users/jhonatanoliveira/Dropbox/biblioteca/meteor/shhhie/client/old_version.html",
+		"/Applications/MAMP/htdocs/shhhie/app/View/Layouts/default.ctp",
+		"/Users/jhonatanoliveira/Dropbox/biblioteca/meteor/shhhie/client/compatibility/hmac-md5.js"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"google",
+			"};",
+			"span4",
+			"cent",
+			"centr",
+			"it",
+			"data-st",
+			"title",
+			"lass=\"lead\"",
+			"accordion-body collapse in",
+			"accordion2",
+			"help",
+			"hi",
+			"say us",
+			"button",
+			"expira",
+			"expiration",
+			"flashMessages",
+			"flashMe",
+			"flashMes",
+			"errorDetected",
+			"sendContactChatroomKey",
+			">\n",
+			"ByEmail",
+			"input",
+			"Face",
+			"face",
+			"Face",
+			"username",
+			"face",
+			"text",
+			"shhhieError",
+			"button",
+			"getE",
+			"submit",
+			"setCookie",
+			"cookie",
+			"delCookie",
+			"Cookie",
+			"getCookie",
+			"Cookie.get",
+			"getCookie",
+			"cooki",
+			"page",
+			"4px",
+			"class=\"message\"",
+			"chatroomKeyToShow",
+			"pageController",
+			"\");\n",
+			"span1",
+			"row"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"accordion-body collapse"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "client/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								674,
+								676
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 37.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/client.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9862,
+								9862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4679.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "client/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								925,
+								925
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/jhonatanoliveira/Google Drive/diversos/secrets data/dados_ninil.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "project.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

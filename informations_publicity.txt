@@ -1,0 +1,11 @@
+20-Word Description
+
+The real anonymous chat of Internet. No user id, no talk history, no highlight to your line.
+
+100-Word Description
+
+The real anonymous chat of Internet. The chat do not require registration, just get a secret key and that's all. Share this key anonymously with the ones you want to talk to although don't want to be recognized, at the Shhhie.com we have two options: we send the key by email or by Facebook message for you. During conversation, just 10 lines are visible. The chat do not indicate which line is from which speaker, then nobody can prove who said what. All conversation are encrypt using the key that only you and who you shared with have.
+
+Additional information
+
+The Shhhie's project is something bigger but we had to start with this online chat idea and if the idea grows up we'll keep going with the second part of the project, a most audacious and promising one. So, now in this first step, I really need the people response to this new kind of chatting experience, then we'll gain motivation for the next one. Please, let me know any missing information, misunderstanding or doubts.  I'll be able to provide any information about our project, including technicals specifications and futures ideas.
